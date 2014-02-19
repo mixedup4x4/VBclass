@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.frmHelloWorld.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.CodeAnalysisLog.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Unit1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.lastcodeanalysissucceeded

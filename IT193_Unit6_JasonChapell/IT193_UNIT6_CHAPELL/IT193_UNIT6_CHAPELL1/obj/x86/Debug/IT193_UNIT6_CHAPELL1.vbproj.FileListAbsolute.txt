@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\bin\Debug\IT193_UNIT6_CHAPELL1.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\bin\Debug\IT193_UNIT6_CHAPELL1.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\bin\Debug\IT193_UNIT6_CHAPELL1.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL.AboutBox1.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL.frmFlags.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL1.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL1.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL1.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_UNIT6_CHAPELL1\IT193_UNIT6_CHAPELL1\obj\x86\Debug\IT193_UNIT6_CHAPELL.SplashScreen1.resources

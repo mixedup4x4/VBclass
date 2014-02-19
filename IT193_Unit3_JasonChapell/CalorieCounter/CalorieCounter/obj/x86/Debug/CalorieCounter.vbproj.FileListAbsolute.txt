@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\Template1.frmCalorieCounter.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\Template1.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\CalorieCounter.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\CalorieCounter.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\CalorieCounter\CalorieCounter\obj\x86\Debug\CalorieCounter.pdb
