@@ -10,3 +10,15 @@ C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects
 C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.exe
 C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.xml
 C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.pdb
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.exe
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.xml
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.pdb
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.AboutBox1.resources
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.frmProject.resources
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\IT193_Unit7_JasonChapell.Resources.resources
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\bin\Debug\IT193_Unit7_JasonChapell.exe
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\bin\Debug\IT193_Unit7_JasonChapell.pdb
+\\vmware-host\Shared Folders\GitHub\VBclass\IT193_Unit7_JasonChapell\IT193_Unit7_JasonChapell\bin\Debug\IT193_Unit7_JasonChapell.xml

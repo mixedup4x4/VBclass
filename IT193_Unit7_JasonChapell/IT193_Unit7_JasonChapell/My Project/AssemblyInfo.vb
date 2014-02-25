@@ -9,9 +9,9 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Student Information")> 
-<Assembly: AssemblyDescription("Print Student Information")> 
+<Assembly: AssemblyDescription("Input and Print Student Information")> 
 <Assembly: AssemblyCompany("Psychotic_Realm")> 
-<Assembly: AssemblyProduct("Student Information")> 
+<Assembly: AssemblyProduct("StudentInfoLite")> 
 <Assembly: AssemblyCopyright("Copyright ©  2014")> 
 <Assembly: AssemblyTrademark("psychotic_realm")> 
 

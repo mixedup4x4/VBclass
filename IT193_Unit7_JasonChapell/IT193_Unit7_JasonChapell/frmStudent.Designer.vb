@@ -49,6 +49,7 @@ Partial Class frmProject
         Me.PrintDocument1 = New System.Drawing.Printing.PrintDocument()
         Me.chkDean = New System.Windows.Forms.CheckBox()
         Me.lblSchool = New System.Windows.Forms.Label()
+        Me.lblMajor = New System.Windows.Forms.Label()
         Me.gbxYear.SuspendLayout()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
@@ -56,7 +57,7 @@ Partial Class frmProject
         'lblJason
         '
         Me.lblJason.AutoSize = True
-        Me.lblJason.Location = New System.Drawing.Point(453, 398)
+        Me.lblJason.Location = New System.Drawing.Point(234, 344)
         Me.lblJason.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblJason.Name = "lblJason"
         Me.lblJason.Size = New System.Drawing.Size(172, 16)
@@ -66,7 +67,7 @@ Partial Class frmProject
         'lblClass
         '
         Me.lblClass.AutoSize = True
-        Me.lblClass.Location = New System.Drawing.Point(466, 419)
+        Me.lblClass.Location = New System.Drawing.Point(247, 365)
         Me.lblClass.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.lblClass.Name = "lblClass"
         Me.lblClass.Size = New System.Drawing.Size(172, 16)
@@ -111,7 +112,7 @@ Partial Class frmProject
         Me.gbxYear.Controls.Add(Me.rdbJunior)
         Me.gbxYear.Controls.Add(Me.rdbSophomore)
         Me.gbxYear.Controls.Add(Me.rdbFreshman)
-        Me.gbxYear.Location = New System.Drawing.Point(109, 161)
+        Me.gbxYear.Location = New System.Drawing.Point(60, 150)
         Me.gbxYear.Name = "gbxYear"
         Me.gbxYear.Size = New System.Drawing.Size(122, 136)
         Me.gbxYear.TabIndex = 7
@@ -167,7 +168,7 @@ Partial Class frmProject
         Me.lstMajor.FormattingEnabled = True
         Me.lstMajor.ItemHeight = 16
         Me.lstMajor.Items.AddRange(New Object() {"Accounting", "Business", "Computer Information Systems", "Marketing"})
-        Me.lstMajor.Location = New System.Drawing.Point(372, 143)
+        Me.lstMajor.Location = New System.Drawing.Point(190, 173)
         Me.lstMajor.Name = "lstMajor"
         Me.lstMajor.Size = New System.Drawing.Size(182, 84)
         Me.lstMajor.TabIndex = 8
@@ -176,14 +177,14 @@ Partial Class frmProject
         '
         Me.cboSchool.FormattingEnabled = True
         Me.cboSchool.Items.AddRange(New Object() {"<None>", "Franklin", "Highland", "Midtown"})
-        Me.cboSchool.Location = New System.Drawing.Point(372, 273)
+        Me.cboSchool.Location = New System.Drawing.Point(394, 173)
         Me.cboSchool.Name = "cboSchool"
         Me.cboSchool.Size = New System.Drawing.Size(183, 24)
         Me.cboSchool.TabIndex = 9
         '
         'btnPrint
         '
-        Me.btnPrint.Location = New System.Drawing.Point(109, 412)
+        Me.btnPrint.Location = New System.Drawing.Point(60, 337)
         Me.btnPrint.Name = "btnPrint"
         Me.btnPrint.Size = New System.Drawing.Size(75, 23)
         Me.btnPrint.TabIndex = 10
@@ -192,7 +193,7 @@ Partial Class frmProject
         '
         'btnExit
         '
-        Me.btnExit.Location = New System.Drawing.Point(344, 416)
+        Me.btnExit.Location = New System.Drawing.Point(502, 337)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
         Me.btnExit.TabIndex = 11
@@ -218,7 +219,7 @@ Partial Class frmProject
         'ExitToolStripMenuItem
         '
         Me.ExitToolStripMenuItem.Name = "ExitToolStripMenuItem"
-        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(103, 22)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
         'EditToolStripMenuItem
@@ -231,7 +232,7 @@ Partial Class frmProject
         'AddSchoolToolStripMenuItem
         '
         Me.AddSchoolToolStripMenuItem.Name = "AddSchoolToolStripMenuItem"
-        Me.AddSchoolToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.AddSchoolToolStripMenuItem.Size = New System.Drawing.Size(138, 22)
         Me.AddSchoolToolStripMenuItem.Text = "Add School"
         '
         'HelpToolStripMenuItem
@@ -244,7 +245,7 @@ Partial Class frmProject
         'AboutToolStripMenuItem
         '
         Me.AboutToolStripMenuItem.Name = "AboutToolStripMenuItem"
-        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.AboutToolStripMenuItem.Size = New System.Drawing.Size(114, 22)
         Me.AboutToolStripMenuItem.Text = "About"
         '
         'PrintPreviewDialog1
@@ -263,7 +264,7 @@ Partial Class frmProject
         'chkDean
         '
         Me.chkDean.AutoSize = True
-        Me.chkDean.Location = New System.Drawing.Point(237, 292)
+        Me.chkDean.Location = New System.Drawing.Point(60, 292)
         Me.chkDean.Name = "chkDean"
         Me.chkDean.Size = New System.Drawing.Size(87, 20)
         Me.chkDean.TabIndex = 13
@@ -273,11 +274,20 @@ Partial Class frmProject
         'lblSchool
         '
         Me.lblSchool.AutoSize = True
-        Me.lblSchool.Location = New System.Drawing.Point(372, 254)
+        Me.lblSchool.Location = New System.Drawing.Point(391, 150)
         Me.lblSchool.Name = "lblSchool"
         Me.lblSchool.Size = New System.Drawing.Size(43, 16)
         Me.lblSchool.TabIndex = 14
         Me.lblSchool.Text = "School"
+        '
+        'lblMajor
+        '
+        Me.lblMajor.AutoSize = True
+        Me.lblMajor.Location = New System.Drawing.Point(188, 150)
+        Me.lblMajor.Name = "lblMajor"
+        Me.lblMajor.Size = New System.Drawing.Size(40, 16)
+        Me.lblMajor.TabIndex = 15
+        Me.lblMajor.Text = "Major"
         '
         'frmProject
         '
@@ -285,6 +295,7 @@ Partial Class frmProject
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ControlText
         Me.ClientSize = New System.Drawing.Size(654, 453)
+        Me.Controls.Add(Me.lblMajor)
         Me.Controls.Add(Me.lblSchool)
         Me.Controls.Add(Me.chkDean)
         Me.Controls.Add(Me.btnExit)
@@ -342,5 +353,6 @@ Partial Class frmProject
     Friend WithEvents PrintDocument1 As System.Drawing.Printing.PrintDocument
     Friend WithEvents chkDean As System.Windows.Forms.CheckBox
     Friend WithEvents lblSchool As System.Windows.Forms.Label
+    Friend WithEvents lblMajor As System.Windows.Forms.Label
 
 End Class
