@@ -65,34 +65,34 @@ StudentName = txtName.text
 	'set units
 	Units = CInt.(txtUnits.text)
 		'check if school year entered
-        If rdbFreshman.Checked Or rdbJunior.Checked Or rdbSenior.Checked Or rdbSophomore.Checked Then
-        'set school year
-		If rdbFreshman.Checked Then
-        SchoolYear = "Freshman"
-        ElseIf rdbJunior.Checked Then
-        SchoolYear = "Junior"
-        ElseIf rdbSenior.Checked Then
-        SchoolYear = "Senior"
-        ElseIf rdbSophomore.checket Then
-		Schoolyear = "Sophomore"
-			'check if major entered
-            If lstMajor.SelectedIndex <> -1 Then
-			'set major
-            Major = lstMajor.SelectedItem
-				'check if school entered
-                If cboSchool.SelectedIndex <> -1 Then
-				'set school
-                School = cboSchool.SelectedItem
-				'check if deans list
-                    If chkDean.Checked Then
-					'set deans list
-                    DeansList = "Dean's List"
-                    Else
-                    DeansList = "No"
-                    End If
-						'All complete = make and print document
-						PrintPreviewDialog1.Document = PrintDocument1
-						PrintPreviewDialog1.ShowDialog()
+        	If rdbFreshman.Checked Or rdbJunior.Checked Or rdbSenior.Checked Or rdbSophomore.Checked Then
+        		'set school year
+		 	If rdbFreshman.Checked Then
+			SchoolYear = "Freshman"
+        		ElseIf rdbJunior.Checked Then
+        		SchoolYear = "Junior"
+        		ElseIf rdbSenior.Checked Then
+			SchoolYear = "Senior"
+        		ElseIf rdbSophomore.checket Then
+			Schoolyear = "Sophomore"
+				'check if major entered
+            			If lstMajor.SelectedIndex <> -1 Then
+				'set major
+            			Major = lstMajor.SelectedItem
+					'check if school entered
+                			If cboSchool.SelectedIndex <> -1 Then
+					'set school
+                			School = cboSchool.SelectedItem
+						'check if deans list
+                    				If chkDean.Checked Then
+						'set deans list
+                    				DeansList = "Dean's List"
+                    				Else
+                				DeansList = "No"
+                				End If
+							'All complete = make and print document
+							PrintPreviewDialog1.Document = PrintDocument1
+							PrintPreviewDialog1.ShowDialog()
 				Else
 				msgBox("You did not select a school!",vbCritical,"OOPS!")
 				End If
