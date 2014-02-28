@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\bin\Debug\IT193_Unit8_JasonChapell.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\bin\Debug\IT193_Unit8_JasonChapell.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\bin\Debug\IT193_Unit8_JasonChapell.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\IT193_Unit8_JasonChapell.frmProject.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\IT193_Unit8_JasonChapell.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\IT193_Unit8_JasonChapell.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\IT193_Unit8_JasonChapell.xml
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\Jason\IT193_Unit8_JasonChapell\IT193_Unit8_JasonChapell\obj\x86\Debug\IT193_Unit8_JasonChapell.pdb
