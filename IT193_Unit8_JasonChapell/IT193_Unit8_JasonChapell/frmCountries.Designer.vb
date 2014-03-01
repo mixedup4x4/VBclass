@@ -23,7 +23,6 @@ Partial Class frmProject
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmProject))
-        Me.btnExit = New System.Windows.Forms.Button()
         Me.lblJason = New System.Windows.Forms.Label()
         Me.lblClass = New System.Windows.Forms.Label()
         Me.gpbCountry = New System.Windows.Forms.GroupBox()
@@ -33,19 +32,10 @@ Partial Class frmProject
         Me.rdoAbbreviation = New System.Windows.Forms.RadioButton()
         Me.btnLookup = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.btnExit = New System.Windows.Forms.Button()
         Me.gpbCountry.SuspendLayout()
         Me.SuspendLayout()
-        '
-        'btnExit
-        '
-        Me.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Popup
-        Me.btnExit.Location = New System.Drawing.Point(421, 412)
-        Me.btnExit.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.btnExit.Name = "btnExit"
-        Me.btnExit.Size = New System.Drawing.Size(97, 32)
-        Me.btnExit.TabIndex = 0
-        Me.btnExit.Text = "Exit"
-        Me.btnExit.UseVisualStyleBackColor = True
         '
         'lblJason
         '
@@ -75,23 +65,23 @@ Partial Class frmProject
         Me.gpbCountry.Controls.Add(Me.rdoAbbreviation)
         Me.gpbCountry.Location = New System.Drawing.Point(126, 127)
         Me.gpbCountry.Name = "gpbCountry"
-        Me.gpbCountry.Size = New System.Drawing.Size(392, 237)
+        Me.gpbCountry.Size = New System.Drawing.Size(359, 205)
         Me.gpbCountry.TabIndex = 3
         Me.gpbCountry.TabStop = False
         Me.gpbCountry.Text = "Select How You Want To Search"
         '
         'txtCountryName
         '
-        Me.txtCountryName.Location = New System.Drawing.Point(225, 126)
+        Me.txtCountryName.Location = New System.Drawing.Point(169, 126)
         Me.txtCountryName.Name = "txtCountryName"
-        Me.txtCountryName.Size = New System.Drawing.Size(100, 23)
+        Me.txtCountryName.Size = New System.Drawing.Size(156, 23)
         Me.txtCountryName.TabIndex = 3
         '
         'txtAbbreviation
         '
-        Me.txtAbbreviation.Location = New System.Drawing.Point(225, 59)
+        Me.txtAbbreviation.Location = New System.Drawing.Point(169, 59)
         Me.txtAbbreviation.Name = "txtAbbreviation"
-        Me.txtAbbreviation.Size = New System.Drawing.Size(100, 23)
+        Me.txtAbbreviation.Size = New System.Drawing.Size(156, 23)
         Me.txtAbbreviation.TabIndex = 2
         '
         'rdoCountryName
@@ -99,7 +89,7 @@ Partial Class frmProject
         Me.rdoCountryName.AutoSize = True
         Me.rdoCountryName.Location = New System.Drawing.Point(26, 127)
         Me.rdoCountryName.Name = "rdoCountryName"
-        Me.rdoCountryName.Size = New System.Drawing.Size(92, 17)
+        Me.rdoCountryName.Size = New System.Drawing.Size(102, 20)
         Me.rdoCountryName.TabIndex = 1
         Me.rdoCountryName.TabStop = True
         Me.rdoCountryName.Text = "Country Name"
@@ -110,7 +100,7 @@ Partial Class frmProject
         Me.rdoAbbreviation.AutoSize = True
         Me.rdoAbbreviation.Location = New System.Drawing.Point(26, 59)
         Me.rdoAbbreviation.Name = "rdoAbbreviation"
-        Me.rdoAbbreviation.Size = New System.Drawing.Size(84, 17)
+        Me.rdoAbbreviation.Size = New System.Drawing.Size(93, 20)
         Me.rdoAbbreviation.TabIndex = 0
         Me.rdoAbbreviation.TabStop = True
         Me.rdoAbbreviation.Text = "Abbreviation"
@@ -118,7 +108,7 @@ Partial Class frmProject
         '
         'btnLookup
         '
-        Me.btnLookup.Location = New System.Drawing.Point(138, 421)
+        Me.btnLookup.Location = New System.Drawing.Point(126, 421)
         Me.btnLookup.Name = "btnLookup"
         Me.btnLookup.Size = New System.Drawing.Size(75, 23)
         Me.btnLookup.TabIndex = 4
@@ -127,12 +117,31 @@ Partial Class frmProject
         '
         'btnClear
         '
-        Me.btnClear.Location = New System.Drawing.Point(295, 421)
+        Me.btnClear.Location = New System.Drawing.Point(271, 421)
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(75, 23)
         Me.btnClear.TabIndex = 5
         Me.btnClear.Text = "Clear"
         Me.btnClear.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Comic Sans MS", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(59, 41)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(533, 35)
+        Me.Label1.TabIndex = 6
+        Me.Label1.Text = "Identify Countries by Name or Abbreviation"
+        '
+        'btnExit
+        '
+        Me.btnExit.Location = New System.Drawing.Point(410, 421)
+        Me.btnExit.Name = "btnExit"
+        Me.btnExit.Size = New System.Drawing.Size(75, 23)
+        Me.btnExit.TabIndex = 7
+        Me.btnExit.Text = "Exit"
+        Me.btnExit.UseVisualStyleBackColor = True
         '
         'frmProject
         '
@@ -140,12 +149,13 @@ Partial Class frmProject
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ControlText
         Me.ClientSize = New System.Drawing.Size(668, 550)
+        Me.Controls.Add(Me.btnExit)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnLookup)
         Me.Controls.Add(Me.gpbCountry)
         Me.Controls.Add(Me.lblClass)
         Me.Controls.Add(Me.lblJason)
-        Me.Controls.Add(Me.btnExit)
         Me.Cursor = System.Windows.Forms.Cursors.Cross
         Me.Font = New System.Drawing.Font("Comic Sans MS", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(0, Byte), Integer))
@@ -153,14 +163,13 @@ Partial Class frmProject
         Me.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
         Me.Name = "frmProject"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "ProjectTitle"
+        Me.Text = "CountryNameIdentifier"
         Me.gpbCountry.ResumeLayout(False)
         Me.gpbCountry.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
-    Friend WithEvents btnExit As System.Windows.Forms.Button
     Friend WithEvents lblJason As System.Windows.Forms.Label
     Friend WithEvents lblClass As System.Windows.Forms.Label
     Friend WithEvents gpbCountry As System.Windows.Forms.GroupBox
@@ -170,5 +179,7 @@ Partial Class frmProject
     Friend WithEvents rdoAbbreviation As System.Windows.Forms.RadioButton
     Friend WithEvents btnLookup As System.Windows.Forms.Button
     Friend WithEvents btnClear As System.Windows.Forms.Button
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents btnExit As System.Windows.Forms.Button
 
 End Class

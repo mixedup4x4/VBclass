@@ -35,7 +35,7 @@ Public Class frmProject
 
 
 
-    Private Sub btnExit_Click(sender As System.Object, e As System.EventArgs) Handles btnExit.Click
+    Private Sub btnExit_Click(sender As System.Object, e As System.EventArgs)
         'close program
         Me.Close()
 
@@ -132,23 +132,29 @@ Public Class frmProject
     End Sub
 
     Private Sub frmProject_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
-        TableOfCountries(0).Abbreviation = "US"
-        TableOfCountries(0).Name = "United States"
-        TableOfCountries(1).Abbreviation = "GE"
-        TableOfCountries(1).Name = "Germany"
-        TableOfCountries(2).Abbreviation = "RU"
-        TableOfCountries(2).Name = "Russia"
-        TableOfCountries(3).Abbreviation = "IQ"
-        TableOfCountries(3).Name = "Iraq"
-        TableOfCountries(4).Abbreviation = "MX"
-        TableOfCountries(4).Name = "Mexico"
-        TableOfCountries(5).Abbreviation = "UK"
-        TableOfCountries(5).Name = "United Kingdom"
-        TableOfCountries(6).Abbreviation = "IR"
-        TableOfCountries(6).Name = "Ireland"
-        TableOfCountries(7).Abbreviation = "BZ"
-        TableOfCountries(7).Name = "Brazil"
-        TableOfCountries(8).Abbreviation = "IT"
-        TableOfCountries(8).Name = "Italy"
+        TableOfCountries(0).Abbreviation = "AQ"
+        TableOfCountries(0).Name = "Antartica"
+        TableOfCountries(1).Abbreviation = "BS"
+        TableOfCountries(1).Name = "Bahamas"
+        TableOfCountries(2).Abbreviation = "CA"
+        TableOfCountries(2).Name = "Canada"
+        TableOfCountries(3).Abbreviation = "EE"
+        TableOfCountries(3).Name = "Estonia"
+        TableOfCountries(4).Abbreviation = "FR"
+        TableOfCountries(4).Name = "France"
+        TableOfCountries(5).Abbreviation = "IE"
+        TableOfCountries(5).Name = "Ireland"
+        TableOfCountries(6).Abbreviation = "JP"
+        TableOfCountries(6).Name = "Japan"
+        TableOfCountries(7).Abbreviation = "MX"
+        TableOfCountries(7).Name = "Mexico"
+        TableOfCountries(8).Abbreviation = "NL"
+        TableOfCountries(8).Name = "Netherlands"
+    End Sub
+
+    Private Sub btnExit_Click_1(sender As System.Object, e As System.EventArgs) Handles btnExit.Click
+        'close program
+        Me.Close()
+
     End Sub
 End Class
