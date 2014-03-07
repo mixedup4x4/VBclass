@@ -115,7 +115,7 @@ Public Class frmProject
         'if item not found
         'display error
         If Not found Then
-            MsgBox("HEY THERE WHAT DID YOU DO", vbCritical, "OOPS")
+            MsgBox("TRY AGAIN, THAT COUNTRY IS NOT IN MY DATABASE", vbCritical, "OOPS")
 
         End If
 
