@@ -139,7 +139,7 @@ Public Class frmProject
 
     End Sub
 
-    Private Sub frmProject_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+    'Private Sub frmProject_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         'TableOfCountries(0).Abbreviation = "AQ"
         'TableOfCountries(0).Name = "Antartica"
         'TableOfCountries(1).Abbreviation = "BS"
@@ -158,7 +158,7 @@ Public Class frmProject
         'TableOfCountries(7).Name = "Mexico"
         'TableOfCountries(8).Abbreviation = "NL"
         'TableOfCountries(8).Name = "Netherlands"
-    End Sub
+    'End Sub
 
     Private Sub btnExit_Click_1(sender As System.Object, e As System.EventArgs) Handles btnExit.Click
         'close program
